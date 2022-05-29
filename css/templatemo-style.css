@@ -180,8 +180,12 @@ body {
   font-size: 14px;
   line-height: 24px;
   color: #777777;
-  font-family: 'robotoregular';
+  font-family: 'robotolight';
   overflow-x: hidden;
+}
+
+.about-me {
+  font-family: 'Baloo Bhai 2', cursive;
 }
 
 a {
@@ -421,7 +425,7 @@ h3.profile-title {
 -------------------------------------------------------- */
 /*------ banner ------ */
 .banner-bg {
-  padding: 260px 80px;
+  padding: 286px 80px;
   position: relative;
   background: url("../img/7.jpg");
   background-repeat: no-repeat;
